@@ -137,8 +137,8 @@
 	</repository>
 	<snapshotRepository>
 		<id>snapshots</id>
-		<name>snapshots</name>
-		<url>http://10.0.0.197:8081/nexus/content/repositories/snapshots/</url>
+		<name>Second-repo</name>
+		<url>http://10.0.0.197:8081/nexus/content/repositories/Second-repo/</url>
 	</snapshotRepository>
 	</distributionManagement>
 </project>
